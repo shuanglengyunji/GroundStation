@@ -1,2 +1,2 @@
-# GroundStation
-Camera工程所使用的图像处理地面站，提供数据监控和图像显示功能
+# Monitor_Qt
+通过UDP协议从8000端口上接收图像信息，并实时显示。
